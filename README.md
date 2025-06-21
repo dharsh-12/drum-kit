@@ -19,5 +19,5 @@ This is a simple drum kit built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Drum Kit Screenshot](C:\Users\Admin\OneDrive\Desktop\Udemy course\Drum Kit Starting Files\images\screenshot.png)
+![Drum Kit Screenshot](images/screenshot.png)
 
